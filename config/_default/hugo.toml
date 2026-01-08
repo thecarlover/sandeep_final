@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = https://sandeepmittal.blog
 languageCode = 'en-us'
 theme = "blowfish"
 defaultContentLanguage = "en"
