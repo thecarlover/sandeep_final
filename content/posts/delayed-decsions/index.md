@@ -6,7 +6,7 @@ draft: false
 ---
 
 
-## The Real Cost of Delayed Decisions in Rolling Mill Operations
+## The Real Cost of Delayed Decisions in Rolling Mill Operation
 
 Rolling mills rarely fail in one big moment.
 Loss usually happens **slowly**, shift by shift, day by day.
