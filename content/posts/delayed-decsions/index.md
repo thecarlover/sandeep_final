@@ -238,7 +238,8 @@ aur aap chahte hain:
 * Team education & system correction
 
 📲 **WhatsApp us for discussion or site visit:**
-👉 **[Your WhatsApp Link Here]**
+[Chat on WhatsApp](https://wa.me/919897122597?text=Hi%20I%20need%20rolling%20mill%20guidance)
+
 
 Agar aap chahte hain ki aapka plant
 **reactive nahi, controlled tareeke se chale**,
