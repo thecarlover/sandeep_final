@@ -6,6 +6,7 @@ buildDrafts = false
 buildFuture = false
 enableEmoji = true
 googleAnalytics = "G-N30816Q2ZN"
+baseURL = "https://www.sandeepmittal.blog/"
 
 [pagination]
 pagerSize = 100

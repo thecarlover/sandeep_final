@@ -5,7 +5,6 @@ description: "Delayed decisions in rolling mills rarely look dramatic, but they 
 draft: false
 ---
 
-
 ## The Real Cost of Delayed Decisions in Rolling Mill Operation
 
 Rolling mills rarely fail in one big moment.
