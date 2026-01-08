@@ -1,5 +1,3 @@
-baseURL = https://sandeepmittal.blog
-languageCode = 'en-us'
 theme = "blowfish"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
