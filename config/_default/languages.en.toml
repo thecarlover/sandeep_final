@@ -1,0 +1,30 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Sandeep Mittal"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "An experienced rolling mill professional specializing in production efficiency, quality control systems, and decision-making across complex manufacturing operations."
+
+ 
+
+["params.author"]
+name = "Sandeep Mittal"
+headline = "Sharing practical insights from years of leadership in rolling mill manufacturing, where disciplined systems, process efficiency, and quality-first thinking drive long-term success."
+bio = "GM-Production & Operations| 30+ years in Steel Rolling Mills| Helping in Process Optimization & Operational Excellence in Manufacturing"
+image = "pro.png"
+ imageQuality = 96
+
+    [[params.author.links]]
+    linkedin = "https://linkedin.com/in/username"
+
+    [[params.author.links]]
+    whatsapp = "https://wa.me/phone-number"
+
+    [[params.author.links]]
+    x-twitter = "https://twitter.com/username"

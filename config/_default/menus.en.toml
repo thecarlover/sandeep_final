@@ -1,0 +1,41 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "About"
+pageRef = "about"
+identifier = "bbHhBisdni"
+weight = 2
+
+[[main]]
+name = "Blogs"
+pageRef = "posts"
+identifier = "OObUxDRAxX"
+weight = 3
+
+[[main]]
+name = "Contact"
+pageRef = "contact"
+identifier = "gRV1k8U0Rs"
+weight = 4
+
+[[main]]
+name = "Home"
+pageRef = "/"
+identifier = "FGXqxCHfN0"
+weight = 1
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "Home"
+pageRef = "/"
+identifier = "x6HRzdxGQk"
+weight = 9_999
+
+[[footer]]
+name = "Contact"
+pageRef = "contact"
+identifier = "koVwZei9X4"
+weight = 9_999
