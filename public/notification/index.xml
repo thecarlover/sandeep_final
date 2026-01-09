@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandeep Mittal</title>
+    <link>http://localhost:1313/notification/</link>
+    <description>Recent content on Sandeep Mittal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Sandeep Mittal</copyright>
+    <lastBuildDate>Fri, 09 Jan 2026 23:39:05 +0530</lastBuildDate><atom:link href="http://localhost:1313/notification/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Notification 18 dec 2025 ADD on China Cold Steel</title>
+      <link>http://localhost:1313/notification/notification-18dec-chinacoldsteel/</link>
+      <pubDate>Fri, 09 Jan 2026 23:39:05 +0530</pubDate>
+      
+      <guid>http://localhost:1313/notification/notification-18dec-chinacoldsteel/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

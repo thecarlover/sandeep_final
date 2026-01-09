@@ -25,6 +25,12 @@ pageRef = "/"
 identifier = "FGXqxCHfN0"
 weight = 1
 
+[[main]]
+name = "Notifications"
+pageRef = "notification"
+identifier = "j5AzNlTHj7"
+weight = 9_999
+
 [[footer]]
 none = "none"
 

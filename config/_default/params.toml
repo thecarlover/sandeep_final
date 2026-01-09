@@ -1,5 +1,5 @@
 colorScheme = "noir"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableA11y = false
 enableSearch = true
@@ -109,3 +109,31 @@ showTableOfContents = true
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
+
+#[firebase]
+  #apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
+  #authDomain = "blowfish-21fff.firebaseapp.com"
+  #projectId = "blowfish-21fff"
+  #storageBucket = "blowfish-21fff.appspot.com"
+  #messagingSenderId = "60108104191"
+  #appId = "1:60108104191:web:039842ebe1370698b487ca"
+  #measurementId = "G-PEDMYR1V0K"
+
+
+#[advertisement]
+  # adsense = ""
+
+
+#[verification]
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""
+
+
+#[buymeacoffee]
+  identifier = "nunocoracao"
+  globalWidget = true
+  globalWidgetMessage = ""
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "right"
