@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operations Management on Sandeep Mittal</title>
+    <link>http://localhost:1313/tags/operations-management/</link>
+    <description>Recent content in Operations Management on Sandeep Mittal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Sandeep Mittal</copyright>
+    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/operations-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Real Cost of Delayed Decisions in Rolling Mill Operations</title>
+      <link>http://localhost:1313/posts/delayed-decsions/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/delayed-decsions/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/delayed-decsions/featured.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

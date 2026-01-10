@@ -2,6 +2,7 @@
 title:  "Turning Waste into Wealth: How Rolling Mills Protect Profit Beyond Production Numbers"
 date: 2026-01-02
 description: "In rolling mills, profit leakage rarely shows up as one big loss. It hides in breakdowns, idle power, scrap, and poor planning. This article explains how waste can be converted into wealth through disciplined systems."
+tags: ["Rolling Mills", "Profit Protection", "Waste Management", "Industrial Efficiency", "Leadership" ,"Directors", "Owners"]
 draft: false
 ---
 

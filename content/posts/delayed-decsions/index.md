@@ -2,6 +2,7 @@
 title: "The Real Cost of Delayed Decisions in Rolling Mill Operations"
 date: 2026-01-07
 description: "Delayed decisions in rolling mills rarely look dramatic, but they silently erode yield, energy efficiency, and team confidence. This article explains why it happens and how practical systems can prevent it."
+tags: ["Rolling Mill","Operations Management","Decision Making","Industrial Efficiency"]
 draft: false
 ---
 

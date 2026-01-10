@@ -2,6 +2,7 @@
 title: "How the 'Chalta Hai' Mindset Turns Micro-Stoppages into Major Breakdowns"
 date: 2026-01-05
 description: "Micro-stoppages look harmless, but they silently destroy yield, consistency, and competitiveness in rolling mills. This article explains why 'chalta hai' is costly and how to fix it with simple systems."
+tags: ["Rolling Mill", "Maintenance", "Productivity", "Industrial Engineering"]
 draft: false
 ---
 
